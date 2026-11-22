@@ -1,9 +1,9 @@
 {
   "packageName": "com.Play.livestore.direct",
   "appName": "Play+",
-  "versionCode": 44,
-  "versionName": "3.12",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.12-correct-version-code.apk",
-  "sha256": "943c55a4b9ec5737d394c5057755f95103b06871f3f50463ffc7d0b4e0951424",
-  "releaseNotes": "Corrected Android package version metadata so installed Play+ 3.12 is recognized as current. TV focus highlight and French text fix included."
+  "versionCode": 45,
+  "versionName": "3.13",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.13-pia-connect-fix.apk",
+  "sha256": "94957339eb607ec097b3dd30326548178ba65421577ed9309734f898e8109eb6",
+  "releaseNotes": "Fixed PIA Connect using an empty username; confirmed VPN connection and automatic Play+ launch on Android TV."
 }
