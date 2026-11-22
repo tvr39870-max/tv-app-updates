@@ -1,0 +1,9 @@
+{
+  "packageName": "com.Play.livestore.direct",
+  "appName": "Play+",
+  "versionCode": 41,
+  "versionName": "3.9",
+  "apkUrl": "https://github.com/tvr39870-max/tv-app-updates/releases/latest/download/playplus.apk",
+  "sha256": "62e726b1298d225e9dc1534b9110667b7edf162199b2d1048dd6a10a7d5ac405",
+  "releaseNotes": "Identifiants PIA saisis par le client; contrôle SHA-256 des mises à jour."
+}
