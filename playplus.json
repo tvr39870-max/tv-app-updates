@@ -1,9 +1,9 @@
 {
   "packageName": "com.Play.livestore.direct",
   "appName": "Play+",
-  "versionCode": 41,
-  "versionName": "3.9",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.9-fixed.apk",
-  "sha256": "58981660810d853d81a6538821e1198c349cf03455455ac55a25e8e30e0e1987",
-  "releaseNotes": "Identifiants PIA saisis par le client; contrôle SHA-256 des mises à jour."
+  "versionCode": 42,
+  "versionName": "3.10",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.10-update-checker.apk",
+  "sha256": "835ed1e0b613e815a0f110e8fda947969370e60c5e7fd7dfe99153744df3926c",
+  "releaseNotes": "Ajout du contrôle de mise à jour et installation via le programme Android."
 }
