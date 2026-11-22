@@ -3,7 +3,7 @@
   "appName": "Play+",
   "versionCode": 41,
   "versionName": "3.9",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus.apk",
-  "sha256": "62e726b1298d225e9dc1534b9110667b7edf162199b2d1048dd6a10a7d5ac405",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.9-fixed.apk",
+  "sha256": "58981660810d853d81a6538821e1198c349cf03455455ac55a25e8e30e0e1987",
   "releaseNotes": "Identifiants PIA saisis par le client; contrôle SHA-256 des mises à jour."
 }
