@@ -1,0 +1,9 @@
+{
+  "packageName": "com.dream4k.pia.countrychooser",
+  "appName": "Dream4k",
+  "versionCode": 42,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/tvr39870-max/tv-app-updates/releases/latest/download/dream.apk",
+  "sha256": "f4bc63d39a80801276fbfa89984ee60fb7fae1fe2ceba8996c4b8e4438034e3c",
+  "releaseNotes": "Identifiants PIA saisis par le client; contrôle SHA-256 des mises à jour."
+}
