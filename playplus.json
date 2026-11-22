@@ -1,9 +1,9 @@
 {
   "packageName": "com.Play.livestore.direct",
   "appName": "Play+",
-  "versionCode": 43,
-  "versionName": "3.11",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.11-no-israel.apk",
-  "sha256": "84e6223b2b96a923b2522f264dd58ccf7a561b15ce34e0c333f228ca08176a51",
-  "releaseNotes": "Israel VPN region removed; manual update check retained."
+  "versionCode": 44,
+  "versionName": "3.12",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.12-tv-focus-fix.apk",
+  "sha256": "0cbce685e961c74d10272912159e89d5822e225f356d9837a82e4479d5f82b7d",
+  "releaseNotes": "Improved TV remote focus visibility in the update prompt and fixed French text encoding. Israel VPN region remains removed."
 }
