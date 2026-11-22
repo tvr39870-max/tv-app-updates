@@ -3,7 +3,7 @@
   "appName": "Play+",
   "versionCode": 44,
   "versionName": "3.12",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.12-tv-focus-fix.apk",
-  "sha256": "0cbce685e961c74d10272912159e89d5822e225f356d9837a82e4479d5f82b7d",
-  "releaseNotes": "Improved TV remote focus visibility in the update prompt and fixed French text encoding. Israel VPN region remains removed."
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.12-correct-version-code.apk",
+  "sha256": "943c55a4b9ec5737d394c5057755f95103b06871f3f50463ffc7d0b4e0951424",
+  "releaseNotes": "Corrected Android package version metadata so installed Play+ 3.12 is recognized as current. TV focus highlight and French text fix included."
 }
