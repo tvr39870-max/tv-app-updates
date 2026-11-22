@@ -1,9 +1,9 @@
 {
   "packageName": "com.Play.livestore.direct",
   "appName": "Play+",
-  "versionCode": 42,
-  "versionName": "3.10",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.10-update-checker.apk",
-  "sha256": "2fc248c58fd9420d52346b68dfdeabc7f9e8a0deec90ee3aecc604e93eb1d813",
-  "releaseNotes": "Ajout d’un bouton manuel de vérification des mises à jour."
+  "versionCode": 43,
+  "versionName": "3.11",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/playplus-3.11-no-israel.apk",
+  "sha256": "84e6223b2b96a923b2522f264dd58ccf7a561b15ce34e0c333f228ca08176a51",
+  "releaseNotes": "Israel VPN region removed; manual update check retained."
 }
