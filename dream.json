@@ -1,9 +1,9 @@
 {
   "packageName": "com.dream4k.pia.countrychooser",
   "appName": "Dream4k",
-  "versionCode": 42,
-  "versionName": "4.0",
-  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/dream4k-4.0-fixed.apk",
-  "sha256": "412874027a3aa54acebe231732b72066b5bc744eaae11350b97b2d4d1d88254d",
-  "releaseNotes": "Identifiants PIA saisis par le client; contrôle SHA-256 des mises à jour."
+  "versionCode": 44,
+  "versionName": "4.2",
+  "apkUrl": "https://raw.githubusercontent.com/tvr39870-max/tv-app-updates/main/dream4k-4.2-andorra-removed.apk",
+  "sha256": "f3a536ba226e3cd90dd372a7d8aa7b561de145a339327de95e40a13e19bb0b41",
+  "releaseNotes": "Removed Andorra from PIA locations; fixed PIA username handling; added manual update check."
 }
